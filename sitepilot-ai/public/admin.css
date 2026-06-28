@@ -1,0 +1,77 @@
+.tdai-admin-wrap .tdai-input-wide {
+    width: 450px;
+    max-width: 100%;
+}
+
+.tdai-index-box {
+    display: none;
+    max-width: 700px;
+    margin-top: 20px;
+}
+
+.tdai-progress-track {
+    background: #e5e7eb;
+    height: 22px;
+    border-radius: 999px;
+    overflow: hidden;
+}
+
+.tdai-progress-bar {
+    height: 22px;
+    width: 0%;
+    background: #9f241c;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+    line-height: 22px;
+    transition: width 0.2s ease;
+}
+
+.tdai-index-status {
+    font-weight: 600;
+    margin-top: 12px;
+}
+
+.tdai-index-details {
+    color: #555;
+}
+
+.tdai-index-url {
+    color: #777;
+    font-size: 12px;
+    word-break: break-all;
+}
+
+.tdai-status-table {
+    max-width: 700px;
+}
+
+.tdai-footer {
+    margin-top: 40px;
+    padding: 24px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.tdai-footer h2 {
+    margin-top: 0;
+}
+
+.tdai-footer-buttons {
+    margin-top: 20px;
+    display: flex;
+    gap: 12px;
+}
+
+.tdai-footer small {
+    display: block;
+    margin-top: 20px;
+    color: #777;
+}
+
+.tdai-footer-credit {
+    margin-top: 30px;
+    color: #777;
+    font-size: 12px;
+}
