@@ -1,4 +1,4 @@
-SitePilot AI
+TechDelivery Chat
 
 An AI-powered chatbot plugin for WordPress that answers visitor questions using your own website content.
 
@@ -27,7 +27,7 @@ Installation
 
 1. Upload the plugin to:
 
-/wp-content/plugins/sitepilot-ai
+/wp-content/plugins/techdelivery-cat
 
 2. Activate the plugin.
 3. Open:
