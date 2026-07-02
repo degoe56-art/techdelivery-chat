@@ -152,4 +152,4 @@ Support
 
 For documentation, updates and future releases, visit:
 
-https://techdelivery.no/sitepilot-ai/
+https://techdelivery.no/techdelivery-chat/
