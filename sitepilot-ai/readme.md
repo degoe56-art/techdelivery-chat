@@ -87,9 +87,9 @@ The following features are planned for the Pro edition:
 
 Folder Structure
 
-tech-delivery-ai-chatbot/
+techdelivery-chat/
 │
-├── tech-delivery-ai-chatbot.php
+├── techdelivery-chat.php
 ├── readme.txt
 ├── README.md
 │
