@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: SitePilot AI
+ * Plugin Name: Techdelivery Chat
  Description: AI-powered chatbot for WordPress that answers questions using your own website content.
  * Version: 1.0.2
  * Author: Tech Delivery AS
@@ -8,7 +8,7 @@
  * License: GPL-2.0-or-later
  * Requires at least: 6.5
  * Requires PHP: 8.0
- * Text Domain: sitepilot-ai
+ * Text Domain: techdelivery-chat
  */
 
 if (!defined('ABSPATH')) exit;
